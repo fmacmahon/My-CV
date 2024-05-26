@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My CV</string>
+    <string name="msg">What is your nickname?</string>
+    <string name="button">Show</string>
+    <string name="cv">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus facilisis massa magna, vel pretium magna lacinia sed. Quisque ac eros nec risus molestie viverra congue eu ex. Donec sollicitudin ligula vel ipsum luctus convallis. Duis quis erat in nulla auctor porttitor. Aliquam nec tellus at neque tincidunt aliquet. Curabitur ut massa a diam porttitor eleifend eget nec lorem. Curabitur feugiat arcu at lorem eleifend, vitae cursus mauris blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+\n\n
+Aenean semper ac elit ut ultricies. Vestibulum condimentum fringilla dui a facilisis. Sed laoreet convallis mi a finibus. Aenean dignissim luctus felis eu ultrices. Etiam et quam nec nibh condimentum convallis id vitae arcu. Sed elementum risus a varius laoreet. Integer pharetra vitae lacus non luctus. Sed quis vehicula enim. Curabitur purus lorem, rhoncus tempor viverra ut, volutpat a est. Phasellus hendrerit vitae nunc egestas tincidunt.
+\n\n
+Cras ut dui pulvinar, vulputate purus quis, rutrum odio. Maecenas tempor blandit felis, ut mollis leo tempus vitae. Sed rhoncus lacinia leo eu pellentesque. Nunc et libero risus. Quisque finibus luctus nisl, sed blandit massa vestibulum sed. Mauris viverra massa ac iaculis hendrerit. Nam vulputate quam vel consequat efficitur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean mollis vehicula eros, vel sollicitudin mauris efficitur nec. Nulla ultrices lobortis ex ut hendrerit. Nulla nec mi vel felis suscipit luctus quis et libero. Integer ut lacus nec nibh aliquet condimentum. Fusce vehicula ipsum in molestie faucibus. Mauris et aliquam sem, sit amet mattis felis. Quisque laoreet ornare diam, non molestie sapien maximus feugiat. Vestibulum viverra sollicitudin.
+\n\n
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus facilisis massa magna, vel pretium magna lacinia sed. Quisque ac eros nec risus molestie viverra congue eu ex. Donec sollicitudin ligula vel ipsum luctus convallis. Duis quis erat in nulla auctor porttitor. Aliquam nec tellus at neque tincidunt aliquet. Curabitur ut massa a diam porttitor eleifend eget nec lorem. Curabitur feugiat arcu at lorem eleifend, vitae cursus mauris blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+    </string>
+    <string name="ask_4_nickname">write here your nickname</string>
+</resources>
